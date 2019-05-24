@@ -1,2 +1,2 @@
 # submodule-repo
-# testing
+# testing from submodule
